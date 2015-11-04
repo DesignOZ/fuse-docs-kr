@@ -10,10 +10,14 @@
  * 프로젝트의 목적은 많은 한국 개발자들이 쉽게 Fuse를 배움에 있습니다. 무조건 직역보다는 최대한 이해하기 쉽도록 번역하는 것을 권장합니다.
  * 기본적으로 문체에 대해서는 경어체를 지향하고 있습니다. 기존 번역된 글들을 보시고 문체를 최대한 통일해주세요.
  * GitHub의 Issue나 Pull Request, 커밋 메시지는 우리말을 쓰시는 것을 오히려 권장합니다. 초기 커밋은 일부 영문으로 된 커밋이 있을 수 있습니다.
+ * Fuse, Uno, UX 등 일부 고유명사 격의 단어에 대해서는 번역을 별도로 하지 않고 영문 표기를 그대로 사용하는 것을 권장합니다.
 
 ## 참여자 명단
 
 * [Realignist](http://github.com/realignist)
 * [ujuc](http://github.com/ujuc)
+* [englekk](http://github.com/englekk)
+* [DesignOZ](http://github.com/DesignOZ)
+* [Hanul](http://github.com/Hanul)
 
 Thanks to [Kristian](http://github.com/kristianhasselknippe) from Fuse.
